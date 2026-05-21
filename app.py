@@ -1,7 +1,6 @@
 # =========================================================
 # 🩺 AI CLINICAL DECISION SUPPORT SYSTEM
-# FINAL 100% WORKING CODE
-# Diploma 5th Semester Project
+# Diploma 6th Semester Project
 # =========================================================
 
 import streamlit as st
